@@ -6,7 +6,7 @@ This technology represents a dramatic leap forward in preserving the sanity and 
 
 ## FAQs
 
-> Isn't using an AI (inference engine) for this overkill?
+> Isn't using an AI inference engine for this overkill?
 
 There are extreamly creative and unexpected ways the subject of **timezones** often enter a conversation. It could start with a conversation about daylight savings time and before you know it you are trying to figure out how to display someone's calendar for someone else sitting 6 timezones away. Three months of meetings later you find you that you are somehow further from a solution than when you started.
 
